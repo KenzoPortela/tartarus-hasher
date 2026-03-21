@@ -92,4 +92,3 @@ Tartarus is currently in version `v1.0.0`. Here is the roadmap for upcoming feat
 
 ## ⚠️ Disclaimer
 *Tartarus is an advanced cryptographic research project. While it implements industry-standard primitives (ChaCha20, HMAC-SHA512) and best practices, it has not yet undergone a multi-year formal public audit. Do not use in critical production environments.*
-```
