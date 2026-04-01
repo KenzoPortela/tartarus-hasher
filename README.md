@@ -19,7 +19,7 @@ Instead of just doing math, Tartarus allocates a massive pool of memory (128 MB 
 ## 🚀 Getting Started
 
 ### 1. Use the precompiled `.exe` (by myself)
-This is if you don't want to setup all the required stuff to try out Tartarus CLI, just download and run !
+This is if you don't want to setup all the required stuff to try out Tartarus CLI, just download it from the [releases](https://github.com/KenzoPortela/tartarus-hasher/releases/) page and run !
 
 ### 2. Compile the program youself
 
