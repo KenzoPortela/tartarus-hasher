@@ -18,12 +18,17 @@ Instead of just doing math, Tartarus allocates a massive pool of memory (128 MB 
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 1. Use the precompiled `.exe` (by myself)
+This is if you don't want to setup all the required stuff to try out Tartarus CLI, just download and run !
+
+### 2. Compile the program youself
+
+#### Prerequisites
 You need a C compiler (`gcc`) and the OpenSSL development libraries installed on your system.
 * **Linux:** `sudo apt install gcc libssl-dev`
 * **Windows:** Use MSYS2 to install `mingw-w64-ucrt-x86_64-gcc` and `mingw-w64-ucrt-x86_64-openssl`.
 
-### Compilation
+#### Compilation
 Clone the repository and compile the `tartarus_cli.c` file:
 
 ```bash
